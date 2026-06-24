@@ -1,4 +1,4 @@
 # tiktok-scrape-ensembledata
 Scraping Tiktok data with EnsembleData API
 
-https://ensembledata.com/apis/docs
+[CodeSandbox](https://codesandbox.io/p/github/marktristy/tiktok-scraper/main)

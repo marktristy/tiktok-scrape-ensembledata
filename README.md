@@ -6,3 +6,5 @@ Scraping Tiktok data with EnsembleData API
 [ClawHub](https://clawhub.ai/marktristy/skills/social-scraper-api)
 
 [DeepWiki](https://deepwiki.com/EnsembleData/tiktok-scraper)
+
+[![EnsembleData Documentation](https://ensembledata.com/wp-content/uploads/2024/05/ensembledata-logo.png)](https://ensembledata.com/apis/docs)
